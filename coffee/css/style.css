@@ -1,0 +1,85 @@
+
+
+#title {
+  color: #fff;
+  background-color: #6F4E37;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.container-fluid {
+  padding: 3% 15% 1%;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 45%;
+  left: 29%;
+  transform: translate(-50%, -50%);
+}
+
+.mission{
+  height: 500px;
+}
+
+
+
+/* Testimonial section */
+#testimonials {
+  text-align: center;
+  background-color: #704F38;
+  color: #fff;
+}
+
+
+.testimonial-image {
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+
+.carousel-item {
+  padding: 10% 15%;
+}
+
+
+.p2 {
+  /* copyright */
+  color: #EAF6F6;
+  padding: 20px 0;
+  text-align: center;
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+}
+
+
+.bottom-container {
+  /* Footer */
+  background-color: #433520;
+  padding: 50px 0 20px;
+}
